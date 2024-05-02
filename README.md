@@ -21,25 +21,25 @@ This script automates the installation of Apache JMeter on various Linux distrib
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/jmeter-install-script.git
+    git clone https://github.com/raychuranirav/jmiterinstallation.git
     ```
 
 2. Navigate to the cloned directory:
 
     ```bash
-    cd jmeter-install-script
+    cd jmiterinstallation
     ```
 
 3. Make the script executable:
 
     ```bash
-    chmod +x install_jmeter.sh
+    chmod +x jmeter5-6-3.sh
     ```
 
 4. Run the script:
 
     ```bash
-    ./install_jmeter.sh
+    ./jmeter5-6-3.sh
     ```
 
 5. Follow the on-screen instructions to complete the installation.
@@ -54,5 +54,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
 
-- This script was created by [Your Name](https://github.com/your-username).
-- Inspiration: [Blog post](https://example.com) by [Author Name](https://example.com).
+- This script was created by [Nirav Raychura]([https://github.com/your-username](https://github.com/raychuranirav)).
